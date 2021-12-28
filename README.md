@@ -1,6 +1,8 @@
 # MANDA
 Crack Facebook Login Token Or Instagram Without Login
-`````
+
+# INSTALL COMMAND
+``````
 
 pkg update && pkg upgrade
 pkg install git
