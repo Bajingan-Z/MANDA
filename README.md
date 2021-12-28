@@ -24,3 +24,7 @@ python2 manda_crack.py
 download this repository / git clone
 chmod +x install.sh
 ./install.sh
+
+if u want to just start it just type
+chmod +x start.sh
+./start.sh
