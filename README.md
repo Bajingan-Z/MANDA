@@ -10,8 +10,21 @@ pkg install python2
 pip2 install futures
 pip2 install mechanize
 pip2 install requests
-git clone https://github.com/Bajingan-Z/manda
 pip2 install bs4
+git clone https://github.com/Bajingan-Z/manda
 cd manda
-git pull
 python2 manda_crack.py 
+
+``````
+
+# INSTALL COMMAND 2
+
+``````
+
+download this repository / git clone
+chmod +x install.sh
+./install.sh
+
+if u want to just start it just type
+chmod +x start.sh
+./start.sh
