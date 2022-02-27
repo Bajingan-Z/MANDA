@@ -1,9 +1,9 @@
 # MANDA
-Crack Facebook Login Token Or Instagram Without Login
 
 # INSTALL COMMAND
 ``````
 
+rm -rf manda
 pkg update && pkg upgrade
 pkg install git
 pkg install python2
@@ -14,4 +14,4 @@ git clone https://github.com/Bajingan-Z/manda
 pip2 install bs4
 cd manda
 git pull
-python2 manda_crack.py 
+python2 manda_v2.py 
