@@ -1,6 +1,7 @@
 # RAKA_ZT <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
 
-![Screenshot_20221019-122333_Termux](https://user-images.githubusercontent.com/95204908/198015723-47919471-d899-42cd-9aef-cd6049c7c0dc.jpg)
+![Screenshot_20221026-151430_Termux](https://user-images.githubusercontent.com/95204908/198016633-5588dd24-a285-41ed-b149-5b7cfbe00052.jpg)
+
 
 
 # DOWNLOAD APK TERMUX 
