@@ -20,4 +20,4 @@ python -m pip install futures
 python -m pip install rich
 git clone https://github.com/Bajingan-Z/RAKA_ZT
 cd RAKA_ZT
-python RAKA_ZT.py
+python RAKAZT.py
