@@ -16,4 +16,5 @@ python -m pip install futures
 python -m pip install rich
 git clone https://github.com/Bajingan-Z/GAFI
 cd GAFI
+git pull
 python Gafi_v2.py
