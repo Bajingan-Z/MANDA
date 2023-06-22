@@ -1,4 +1,5 @@
-'''Update 23 Juni 2023
+'''Code AEROX XD
+   Update 23 Juni 2023
    Autor Raka Andrian Tara
    Github Bajingan-Z
 '''
@@ -422,7 +423,4 @@ if __name__=='__main__':
 	try:os.mkdir('RAKA_CP')
 	except:pass
 	try:os.system('clear')
-	except:pass
-	__raka_andrian___(f'{P} •{K} Created By Raka Andrian Tara\n{P} •{K} Script 100% GRATIS\n{P} •{K} Gunakan Sewajarnya...')
-	time.sleep(3)
 	rakaexde()
