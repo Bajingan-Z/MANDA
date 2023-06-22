@@ -1,15 +1,15 @@
 # GAFI <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
 # INFO ADMIN GAFI
-``` UPIL FACEBOOK ```
-``` RAKA ANDRIAN TARA```
-``` YAYAN XD ```
-``` NUGRAHA PRATAMA ```
+``` UPIL FACEBOOK • ```
+``` RAKA ANDRIAN TARA • ```
+``` YAYAN XD • ```
+``` NUGRAHA ```
 # ================
-``` LAURA WIDYA ```
-``` INDAH ```
-``` ERLI ```
-``` NICKY ```
-``` ANISAH ```
+``` LAURA WIDYA • ```
+``` INDAH • ```
+``` ERLI • ```
+``` NICKY • ```
+``` ANISAH • ```
 # DOWNLOAD APK TERMUX 
 
 Klick di 👉[SINI](https://f-droid.org/repo/com.termux_117.apk), Untuk Mendownload Nya Buka Aplikasi Ketikan Perintah Dibawah .
