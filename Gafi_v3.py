@@ -1,4 +1,4 @@
-'''Code AEROX XD
+'''Code Aerox XD
    Update 23 Juni 2023
    Autor Raka Andrian Tara
    Github Bajingan-Z
