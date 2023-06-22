@@ -33,4 +33,4 @@ python -m pip install rich
 git clone https://github.com/Bajingan-Z/GAFI
 cd GAFI
 git pull
-python Gafi_v2.py
+python Gafi_v3.py
